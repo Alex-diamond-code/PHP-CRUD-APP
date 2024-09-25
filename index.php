@@ -15,6 +15,7 @@ require "dbcon.php";
 <body>
     <div class="container mt-4">
     <?php include('message.php') ?>
+    <h1 class="text-center fw-bold">CRUD APP in PHP</h1>
         <div class="row">
             <div class="col-md-12 d-flex justify-content-center">
                 <div class="card mt-5">
